@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pyngrok
+bing_image_downloader
+scikit_image
+scikit-learn
+Pillow
+streamlit

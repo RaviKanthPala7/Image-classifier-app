@@ -6,3 +6,4 @@ scikit_image
 scikit-learn
 Pillow
 streamlit
+joblib
